@@ -1,7 +1,7 @@
-🎯 The Perfect Guess
+# 🎯 The Perfect Guess
 A simple number guessing game built with Python where the computer generates a random number and the player tries to guess it.
 
-📌 About the Project
+## 📌 About the Project
 In this game, the computer randomly generates a number between 1 and 100. The player keeps entering guesses until they find the correct number.
 After each guess, the program provides a hint:
 
@@ -11,7 +11,7 @@ After each guess, the program provides a hint:
 
 The program also keeps track of the number of attempts made by the player.
 
-✨ Features
+## ✨ Features
 
 * 🎲 Generates a random number between 1 and 100
 * ⌨️ Takes guesses from the user
@@ -20,12 +20,12 @@ The program also keeps track of the number of attempts made by the player.
 * 🏆 Displays the result when the correct number is guessed
 * 💻 Simple command-line interface
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python 3
 * random module
 
-🧠 Python Concepts Practiced
+## 🧠 Python Concepts Practiced
 This project helped practice:
 
 * Variables
@@ -38,7 +38,7 @@ This project helped practice:
 * Python's `random` module
 * `random.randint()`
 
-🚀 How to Run
+## 🚀 How to Run
 1. Clone the repository
 
 ```bash
@@ -57,7 +57,7 @@ cd the-perfect-guess-game
 python the_perfect_guess_game.py
 ```
 
-💻 Example Output
+## 💻 Example Output
 
 ```text
 Guess the number: 50
@@ -73,10 +73,10 @@ Number of guesses: 3
 
 The randomly generated number will be different each time the program runs, so the output may vary.
 
-🎯 Learning Objective
+## 🎯 Learning Objective
 The main objective of this project was to strengthen Python fundamentals by building an interactive guessing game and practicing loops, conditional statements, user input, random number generation, and counting attempts.
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Possible improvements for future versions:
 
 * Add difficulty levels
@@ -85,7 +85,7 @@ Possible improvements for future versions:
 * Allow the player to play multiple rounds
 * Add input validation for invalid entries
 
-👤 Author
+## 👤 Author
 Sheema Azmat
 
 ⭐ If you found this project useful, consider giving the repository a star!
